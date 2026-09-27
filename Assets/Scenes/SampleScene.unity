@@ -11788,14 +11788,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5310600218844142924, guid: bba4183f0be723842882beeaa3850a11, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.8
-      objectReference: {fileID: 0}
-    - target: {fileID: 5310600218844142924, guid: bba4183f0be723842882beeaa3850a11, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.8
-      objectReference: {fileID: 0}
     - target: {fileID: 6656692090827319074, guid: bba4183f0be723842882beeaa3850a11, type: 3}
       propertyPath: m_Name
       value: Tower
